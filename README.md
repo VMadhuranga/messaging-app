@@ -23,7 +23,8 @@ By doing this project I've learned:
 
 ## Acknowledgements
 
-This project is part of [The Odin Project](https://www.theodinproject.com/), a free online course to learn full-stack web development.
+- This project is part of [The Odin Project](https://www.theodinproject.com/), a free online course to learn full-stack web development.
+- [Pictogrammers](https://pictogrammers.com/): open-source iconography for designers and developers
 
 ## Known Issues
 
