@@ -24,8 +24,11 @@ By doing this project I've learned:
 ## Acknowledgements
 
 - This project is part of [The Odin Project](https://www.theodinproject.com/), a free online course to learn full-stack web development.
-- [Pictogrammers](https://pictogrammers.com/): open-source iconography for designers and developers
+- [Pictogrammers](https://pictogrammers.com/): open-source iconography for designers and developers.
+- [Loaders](https://cssloaders.github.io/): collection of different types of CSS loaders, spinners.
 
 ## Known Issues
 
 - Messaging with a deleted user will result in an error response.
+
+- This application's server is deployed on a free tier with limited resources. Free server instance will spin down with inactivity. When that happens, it might take some time to spin up the server instance.
